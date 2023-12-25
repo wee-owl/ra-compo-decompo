@@ -126,7 +126,7 @@ html {
   grid-area: interest;
   display: flex;
   justify-content: flex-start;
-  align-items: end;
+  align-items: flex-end;
 }
 
 .search {
