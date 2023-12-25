@@ -9,7 +9,7 @@ function App() {
     <main className='main'>
       <AboveSearch/>
       <Search/>
-      <aside className='advt'>Рекламный блок</aside>
+      <aside className='aside'>Рекламный блок</aside>
       <BelowSearch/>
     </main>
   );
